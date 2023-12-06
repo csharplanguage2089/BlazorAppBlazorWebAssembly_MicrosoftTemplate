@@ -1,0 +1,1 @@
+# BlazorAppBlazorWebAssembly_MicrosoftTemplate
